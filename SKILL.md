@@ -3,7 +3,7 @@ name: scholastic-method
 description: Provide a systematic approach to intellectual inquiry that structures questions, presents objections honestly, provides authoritative grounding, articulates a reasoned position, and replies to each...
 license: MIT
 metadata:
-  version: 1.0.4917
+  version: 1.0.4918
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
